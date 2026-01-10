@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main() {
+int main() { 
     cout << "Welcome to Git Workflow Simulator (C++)" << endl;
     cout << "Login feature active" << endl;
     cout << "Dashboard feature active" << endl;
