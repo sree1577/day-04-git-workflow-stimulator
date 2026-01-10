@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout << "Hello, P4 of P30 Git Workflow Stimulator!" << endl;
+    cout << "Dashboard feature active" << endl;
     return 0;
 }
